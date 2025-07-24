@@ -12,10 +12,10 @@
 
 ###  About Me
 
--  I’m currently building a full-fledged ERP system: **[Codifya-ERP](https://github.com/aylingurel1/Codifya-ERP)**.
--  I’m currently learning **Next.js** and **Tailwind CSS** to build faster, more performant, and aesthetically pleasing web apps.
--  You can reach me at: **aylngurel@gmail.com**.
--  I’m open to collaborating on interesting open-source projects.
+- 🔭 I’m currently building ERP system: **[Codifya-ERP](https://github.com/aylingurel1/Codifya-ERP)**.
+- 🌱 I’m learning **Next.js** and **Tailwind CSS** to build faster, more performant, and aesthetically pleasing web apps.
+- 📫 You can reach me at: **aylngurel@gmail.com**.
+- 🤝 I’m open to collaborating on interesting open-source projects.
 
 ---
 
