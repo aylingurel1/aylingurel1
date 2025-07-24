@@ -36,23 +36,6 @@
 
 ---
 
-### 🔥 My GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aylingurel1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aylin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylingurel1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Aylin's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aylingurel1&theme=tokyonight&hide_border=true" alt="Aylin's Contribution Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aylingurel1/aylingurel1/output/github-contribution-grid-snek.svg" alt="Contribution Snake Animation" />
-</div>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="center">
