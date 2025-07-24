@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Codifya-ERP](https://github.com/aylingurel1/Codifya-ERP)
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS**
+- 🌱 I’m  learning **Next.js, Tailwind CSS**
 
 - 📫 How to reach me **aylngurel@gmail.com**
 
